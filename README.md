@@ -3,10 +3,10 @@ As a PhD graduate from Boston College, I am actively engaged as both a Research 
 
 ### Education
 Boston College
-Doctor of Philosophy - PhD, Education
+Doctor of Philosophy - Education
 
-University of Southern CaliforniaUniversity of Southern California
-Master's degree, TESOL
+University of Southern California
+Master's degree - TESOL
 
 ### Work Experience
 Research And Teaching Assistant @Boston College · Full-time
