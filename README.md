@@ -1,12 +1,12 @@
 # Educational Researcher
-As a PhD graduate from Boston College, I am actively engaged as both a Research and Teaching Assistant in the field of Education. My core interests include second language acquisition, content-based and technology-enhanced instruction. I am driven to contribute to an environment that values equity and diversity, bringing a global perspective to language education.
+Chuqi (Kiki) Wang is a doctoral student at the Lynch School of Education and Human Development. Her research explores the integration of AI in education, human-AI interaction, learning science and language learning. Her work centers on designing innovative strategies to support language learners across diverse contexts.
 
 ### Education
 Boston College
 - Doctor of Philosophy: Education
 
 University of Southern California
-- Master of Arts in Teaching: TESOL
+- Master of Arts in Teaching: Education
 
 ### Work Experience
 - Research And Teaching Assistant @Boston College
@@ -18,8 +18,20 @@ Using IB PYP framework, teach EAL lessons based on REACH HIGHER program to third
 Observed and taught fifth grade students cross-curricular lessons in English & Art.
 
 ### Publication & Conference
+- Creative Storytelling with AI @AECT Presentation · May 18, 2026
+
+- Co-design Equitable Future for Generative AI Supported Multilingual Writing: A Collaborative Self-study @AERA Presentation · Apr 10, 2026
+
+- Unlocking the Future: A Comprehensive Review of ChatGPT in Education @Technology, Knowledge and Learning · Dec 26, 2025
+
+- Generative AI in Education @Red Educacional Ignaciana (Jesuit School System) Presentation · Dec 19, 2025
+
+- Co-design Equitable Future for Generative AI Supported Multilingual Writing @NERA Presentation · Oct 24, 2025
+
+- A Review of Early Literature on ChatGPT in Education @AERA Presentation · Apr 23, 2025
+
 - Creative Pass to Language Acquisition: From Drawing to Speaking ImageCreative Pass to Language Acquisition: From Drawing to Speaking Image @The TESOL Encyclopedia of English Language Teaching · Jan 12, 2024
 
 - Promoting Prospective TESOL Educators’ Critical Reflection Through the 4D FrameworkPromoting Prospective TESOL Educators’ Critical Reflection Through the 4D Framework @TESOL Guide for Critical Praxis in Teaching, Inquiry, and Advocacy · Jan 1, 2022
 
-- Fostering Language Development: Case study on the Effects of CreativityFostering Language Development: Case study on the Effects of Creativity @CATESOL Conference · Oct 8, 2020
+- Fostering Language Development: Case Study on the Effects of Creativity @CATESOL Presentation · Oct 8, 2020
