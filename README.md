@@ -1,4 +1,4 @@
-# AI & Education Researcher
+# AI & Education Researcher @Boston College
 Chuqi (Kiki) Wang is a doctoral student at the Lynch School of Education and Human Development. Her research explores the integration of AI in education, human-AI interaction, learning science and language learning. Her work centers on designing innovative strategies to support language learners across diverse contexts.
 
 ### Education
